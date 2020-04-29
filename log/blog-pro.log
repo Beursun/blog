@@ -1,0 +1,4 @@
+2020-04-21 13:49:52.367  INFO 84904 --- [restartedMain] com.zzy.BlogApplication                  : Starting BlogApplication on zzy-PC with PID 84904 (F:\张泽宇\学习\blog\target\classes started by zzy in F:\张泽宇\学习\blog)
+2020-04-21 13:49:52.371  INFO 84904 --- [restartedMain] com.zzy.BlogApplication                  : The following profiles are active: pro
+2020-04-21 13:49:54.631  WARN 84904 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-04-21 13:49:55.018  INFO 84904 --- [restartedMain] com.zzy.BlogApplication                  : Started BlogApplication in 3.327 seconds (JVM running for 4.526)
